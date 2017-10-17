@@ -1,0 +1,60 @@
+---
+layout: null
+permalink: /keybase.txt
+---
+
+==================================================================
+https://keybase.io/danehammer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danehammer.rocks
+  * I am danehammer (https://keybase.io/danehammer) on keybase.
+  * I have a public key ASBrMZC5Ff_CJvC9sNLJiVM6cjViYjn70pn8c-3ryknMkQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101e367d193694d49ab05af4aa3b7d017402e001f12dfa33458a867b959d423c3410a",
+      "host": "keybase.io",
+      "kid": "01206b3190b915ffc226f0bdb0d2c989533a7235626239fbd299fc73edebca49cc910a",
+      "uid": "f27648defecfaa868bf172e37abe4419",
+      "username": "danehammer"
+    },
+    "merkle_root": {
+      "ctime": 1507819244,
+      "hash": "fccc147de64f12bbcbdad6b923bc81231fcb28d27f82541a64a1625b0908aba1c27f9a78f454ea433c352d9dc50a400b84b9c7517a983f2de8ad1abbcbe599a3",
+      "hash_meta": "57f8cb68c1a8f616be9e32e3f31129769ba38282503cbecd14a764eec2153eb9",
+      "seqno": 1565573
+    },
+    "service": {
+      "hostname": "danehammer.rocks",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1507819278,
+  "expire_in": 504576000,
+  "prev": "4bc1953a528fe48577e577d3faaa5d71e584b25e070a1dc704cae599ef99ccf1",
+  "seqno": 59,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgazGQuRX/wibwvbDSyYlTOnI1YmI5+9KZ/HPt68pJzJEKp3BheWxvYWTFA0t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZTM2N2QxOTM2OTRkNDlhYjA1YWY0YWEzYjdkMDE3NDAyZTAwMWYxMmRmYTMzNDU4YTg2N2I5NTlkNDIzYzM0MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNmIzMTkwYjkxNWZmYzIyNmYwYmRiMGQyYzk4OTUzM2E3MjM1NjI2MjM5ZmJkMjk5ZmM3M2VkZWJjYTQ5Y2M5MTBhIiwidWlkIjoiZjI3NjQ4ZGVmZWNmYWE4NjhiZjE3MmUzN2FiZTQ0MTkiLCJ1c2VybmFtZSI6ImRhbmVoYW1tZXIifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDc4MTkyNDQsImhhc2giOiJmY2NjMTQ3ZGU2NGYxMmJiY2JkYWQ2YjkyM2JjODEyMzFmY2IyOGQyN2Y4MjU0MWE2NGExNjI1YjA5MDhhYmExYzI3ZjlhNzhmNDU0ZWE0MzNjMzUyZDlkYzUwYTQwMGI4NGI5Yzc1MTdhOTgzZjJkZThhZDFhYmJjYmU1OTlhMyIsImhhc2hfbWV0YSI6IjU3ZjhjYjY4YzFhOGY2MTZiZTllMzJlM2YzMTEyOTc2OWJhMzgyODI1MDNjYmVjZDE0YTc2NGVlYzIxNTNlYjkiLCJzZXFubyI6MTU2NTU3M30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkYW5laGFtbWVyLnJvY2tzIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzMifSwiY3RpbWUiOjE1MDc4MTkyNzgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNGJjMTk1M2E1MjhmZTQ4NTc3ZTU3N2QzZmFhYTVkNzFlNTg0YjI1ZTA3MGExZGM3MDRjYWU1OTllZjk5Y2NmMSIsInNlcW5vIjo1OSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEATvn8txVbQqslBfbVmVOxOIkRaFqlgWumxRF6PqTj4yx7um770X0Pk3/O+J/5ELL4OWxfciGLAQ7NHFTUjlGMEqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgxLO5EdHlrkO5G7agLUxNbHpgz+efoEtyousynNzSE9ejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danehammer
+
+==================================================================
