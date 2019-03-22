@@ -58,7 +58,7 @@ naver-site-verification  :
 
 # Social Sharing
 twitter:
-  username               : devops_hobo
+  username               :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -94,13 +94,13 @@ author:
   keybase          : danehammer
   instagram        :
   lastfm           :
-  linkedin         : danehammer
+  linkedin         : dane
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : devops_hobo
+  twitter          :
   vine             :
   weibo            :
   xing             :
